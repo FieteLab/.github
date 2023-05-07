@@ -1,5 +1,6 @@
 # Fiete Lab Research Projects
 
+* [**Model-Agnostic Measure of Generalization Difficulty**](https://arxiv.org/abs/2305.01034). Akhilan Boopathy, Kevin Liu, Jaedong Hwang, Shu Ge , Asaad Mohammedsaleh, Ila Fiete. *ICML. 2023* [**[Code]**](https://github.com/FieteLab/inductive-bias-complexity)
 * [**No Free Lunch from Deep Learning in Neuroscience: A Case Study through Models of the Entorhinal-Hippocampal Circuit**](https://www.biorxiv.org/content/10.1101/2022.08.07.503109v1). Rylan Schaeffer, Mikail Khona, Ila Fiete. *NeurIPS 2022* [**[Code]**](https://github.com/FieteLab/FieteLab-No-Free-Lunch)
 * [**How to Train Your Wide Neural Network Without Backprop: An Input-Weight Alignment Perspective**](https://arxiv.org/pdf/2106.08453.pdf). Akhilan Boopathy, Ila Fiete. *ICML 2022* [**[Code]**](https://github.com/FieteLab/Wide-Network-Alignment)
 * [**Streaming Inference for Infinite Feature Models**](https://proceedings.mlr.press/v162/schaeffer22a.html). Rylan Schaeffer, Yilun Du, Gabrielle K Liu, Ila Fiete. *ICML 2022* [**[Code]**](https://github.com/FieteLab/FieteLab-RIBP)
